@@ -4,7 +4,7 @@ A Game, created in Ludum Dare 45 (https://ldjam.com/events/ludum-dare/45/nocontr
 Can be played in browser: https://www.newgrounds.com/portal/view/739638
 
 
-Final results
+Final results (728 participants in "Compo")
 
 * Overall: 137th (3.648 average from 56 ratings)
 * Fun: 71st (3.769 average from 56 ratings)
